@@ -1,0 +1,36 @@
+Sheet 1: Customer Data
+CustomerID	Name	Region	Total_Purchases	Avg_Purchase_Value	Loyalty_Score
+1	John Doe	North	1200	200	80
+2	Jane Smith	South	800	160	65
+3	Mike Lee	East	950	190	70
+4	Anna Ray	West	500	125	50
+5	Tom Kim	North	1500	300	90
+Sheet 2: PivotTables & Analysis
+
+PivotTable: Total Purchases by Region
+
+Rows: Region
+
+Values: Sum of Total_Purchases
+
+Chart: Column chart showing revenue by region
+
+PivotTable: Avg Purchase Value by Loyalty Score (grouped)
+
+Rows: Loyalty Score ranges (50–60, 61–70, etc.)
+
+Values: Average of Avg_Purchase_Value
+
+Chart: Scatter plot or bar chart
+
+Sheet 3: Dashboard
+
+Combine key visuals:
+
+Column chart: Revenue by region
+
+Pie chart: Customers per loyalty group
+
+Conditional formatting: Highlight top 20% customers by total purchases
+
+You can create the Excel file, save it as Customer_Segmentation.xlsx, and upload it to your GitHub Excel/ folder.
