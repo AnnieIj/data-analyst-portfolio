@@ -1,6 +1,6 @@
 # 📊 Data Analyst Portfolio
 
-Hi, I’m Annie 👋🏽 — a Data Analyst skilled in **SQL, Excel, Power BI, and Python**.  
+Hi, I’m Ijeoma Annie Chris 👋🏽 a Data Analyst skilled in **SQL, Excel, Power BI, and Python**.  
 This portfolio showcases real-world projects demonstrating data cleaning, analysis, visualization, and reporting.
 
 All projects use the same dataset: sales_data.csv.
