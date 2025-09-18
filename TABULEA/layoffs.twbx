@@ -1,0 +1,41 @@
+# Load Dataset
+# sales_data.csv
+# Columns: OrderID, Product, Category, Region, Sales, Quantity, OrderDate
+
+# Worksheets / Analysis
+
+1️⃣ Revenue by Region
+- Drag Region → Columns
+- Drag SUM(Sales) → Rows
+- Chart: Bar chart (descending)
+
+2️⃣ Top 5 Products by Quantity Sold
+- Drag Product → Columns
+- Drag SUM(Quantity) → Rows
+- Filter: Top 5 by SUM(Quantity)
+- Chart: Bar chart or Pie chart
+
+3️⃣ Monthly Sales Trends
+- Calculated Field: Month-Year = DATETRUNC('month', [OrderDate])
+- Drag Month-Year → Columns
+- Drag SUM(Sales) → Rows
+- Color: Category
+- Chart: Line chart
+
+4️⃣ Average Order Value by Region
+- Calculated Field: Avg_Order_Value = SUM([Sales]) / SUM([Quantity])
+- Drag Region → Columns
+- Drag Avg_Order_Value → Rows
+- Chart: Bar chart
+
+5️⃣ Revenue Contribution Percentage by Region
+- Calculated Field: Revenue_% = SUM([Sales]) / TOTAL(SUM([Sales]))
+- Drag Region → Columns
+- Drag Revenue_% → Rows
+- Chart: Pie chart
+
+# Dashboard
+- Combine all worksheets
+- Add filters: Region, Category, Date range
+- Add titles and captions
+- Save as: layoffs.twbx
