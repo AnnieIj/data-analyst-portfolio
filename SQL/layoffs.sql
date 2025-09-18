@@ -1,5 +1,5 @@
--- Sales_Analysis.sql
--- Comprehensive Sales Analysis Queries
+-- layoffs.sql
+-- Comprehensive Sales Analysis Queries 
 
 -- 1. Total revenue and total quantity sold by region
 SELECT 
