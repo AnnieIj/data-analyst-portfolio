@@ -11,21 +11,27 @@ All projects use the same dataset: sales_data.csv.
 │── README.md
 
 │── SQL/
+
 │    └── layoffs.sql
 
 │── Python/
+
 │    └── EDA.ipynb
 
 │── Excel/
+
 │    └── Customer_Segmentation.xlsx
 
 │── PowerBI/
+
 │    └── Retail_Dashboard.pbix
 
 │── Tableau/
+
 │    └── layoffs.twbx
 
 │── Datasets/
+
 │    └── sales_data.csv
 
 
