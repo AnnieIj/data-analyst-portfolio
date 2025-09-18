@@ -19,7 +19,7 @@ Key tasks performed:
 
 **Skills demonstrated:** SQL aggregation, filtering, grouping, ordering, subqueries  
 
-📂 File: [SQL/Sales_Analysis.sql](SQL/Sales_Analysis.sql)  
+📂 File: [SQL/Sales_Analysis.sql](SQL/layoffs.sql)  
 📂 Dataset used: [Datasets/sales_data.csv](Datasets/sales_data.csv)  
 
 ---
