@@ -6,6 +6,21 @@ This portfolio showcases real-world projects demonstrating data cleaning, analys
 All projects use the same dataset: sales_data.csv.
 ---
 
+data-analyst-portfolio/
+│── README.md
+│── SQL/
+│    └── layoffs.sql
+│── Python/
+│    └── EDA.ipynb
+│── Excel/
+│    └── Customer_Segmentation.xlsx
+│── PowerBI/
+│    └── Retail_Dashboard.pbix
+│── Tableau/
+│    └── layoffs.twbx
+│── Datasets/
+│    └── sales_data.csv
+
 ## 🔹 Projects
 
 ### 1. SQL: Sales_Analysis.sql
