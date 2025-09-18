@@ -18,10 +18,13 @@ All projects use the same dataset: sales_data.csv.
 
 │── Excel/
 │    └── Customer_Segmentation.xlsx
+
 │── PowerBI/
 │    └── Retail_Dashboard.pbix
+
 │── Tableau/
 │    └── layoffs.twbx
+
 │── Datasets/
 │    └── sales_data.csv
 
